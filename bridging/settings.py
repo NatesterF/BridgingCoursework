@@ -26,7 +26,7 @@ SECRET_KEY = 'j1w$mp!1l(w=5&37eaqb0kb$0_q01#b+3)6s35i8-tetlpg*47'
 DEBUG = True
 
 #ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com','nathanflaherty.co.uk']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com','nathanflaherty.co.uk','localhost']
 
 
 # Application definition
@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+        'blog.apps.BlogConfig',
 ]
 
 MIDDLEWARE = [
