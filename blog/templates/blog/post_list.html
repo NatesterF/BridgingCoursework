@@ -2,7 +2,9 @@
 	<body>
 		{% for post in posts %}
 		<div>
-		<p>{{ post.title }}</p>
+			<h3>{{ post.title }}</h3>
+			<p>{{ post.text }}</p>
+			<br>
 		</div>
 		{%endfor%}
 	</body>
