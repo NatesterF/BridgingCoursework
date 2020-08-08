@@ -1,10 +1,21 @@
 
-h1,h2,h3{
+.header{
+	background-color:#008080;
+	color:#FFFFFF;
+	padding: 20px 20px 20px 20px;
+}
+body{
+	background-color:#464E51;
+	/*background-color:#666B6C;*/
+	color:#FFFFFF;
+}
+h2,h3{
 	font-family:montserrat;
+		padding-left:15px;
+
 }
 	p{
 		font-family:verdana;
 		padding-left:50px;
-		color:#024601;
 
 	}
