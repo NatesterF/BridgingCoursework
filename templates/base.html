@@ -1,0 +1,31 @@
+{% load static %}
+<HTML>
+	<head>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+		<title> Nathan's CS Blog and CV</title>
+		<link rel="stylesheet" href="{% static 'css/blog.css' %}">
+	</head>
+	<body>
+		<div class="header">
+		<div class="row">
+				<div class="text-left col-11 ">
+					<h1> <a href="/">Nathan Flaherty's CS Blog</a></h1>
+				</div>
+				<div class="col-1">
+					<a href="/cv/"><h3> CV </h3></a>
+				</div>
+			</div>
+			</div>
+		</div>
+		<br>
+		<div class="content">
+		{% block content %}
+		{%endblock%}
+		</div>
+	</body>
+
+</HTML>
+
+
+
+
