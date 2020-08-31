@@ -14,3 +14,4 @@ class URLTests(TestCase):
         response = self.client.get('/cv/')
         self.assertTemplateUsed(response, 'cv/cv.html')
         
+    

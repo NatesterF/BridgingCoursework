@@ -22,3 +22,217 @@ console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Err
 1598368212880	Marionette	INFO	Listening on port 43755
 1598368212902	Marionette	WARN	TLS certificate errors will be ignored for this session
 1598368220882	Marionette	INFO	Stopped listening on port 43755
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598896753375	Marionette	INFO	Listening on port 42233
+1598896753456	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598896760495	Marionette	INFO	Listening on port 39359
+1598896760582	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1598896783718	Marionette	INFO	Stopped listening on port 39359
+1598896784620	Marionette	INFO	Stopped listening on port 42233
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598896825508	Marionette	INFO	Listening on port 44225
+1598896825607	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598896829795	Marionette	INFO	Listening on port 33469
+1598896829825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598896939953	Marionette	INFO	Stopped listening on port 44225
+1598896940469	Marionette	INFO	Stopped listening on port 33469
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598896944307	Marionette	INFO	Listening on port 45611
+1598896944405	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598896948686	Marionette	INFO	Listening on port 43645
+1598896948721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598896957468	Marionette	INFO	Stopped listening on port 45611
+1598896957969	Marionette	INFO	Stopped listening on port 43645
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598896998810	Marionette	INFO	Listening on port 41043
+1598896998824	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897003620	Marionette	INFO	Listening on port 35665
+1598897003656	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1165:3
+
+1598897004045	Marionette	ERROR	[16] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1598897005722	Marionette	INFO	Stopped listening on port 35665
+1598897015665	Marionette	INFO	Stopped listening on port 41043
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897017554	Marionette	INFO	Listening on port 43273
+1598897017589	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897021773	Marionette	INFO	Listening on port 41441
+1598897021877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598897032265	Marionette	INFO	Stopped listening on port 43273
+1598897032326	Marionette	INFO	Stopped listening on port 41441
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897060445	Marionette	INFO	Listening on port 32999
+1598897060472	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897064476	Marionette	INFO	Listening on port 33881
+1598897064566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598897074070	Marionette	INFO	Stopped listening on port 33881
+1598897074491	Marionette	INFO	Stopped listening on port 32999
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897138923	Marionette	INFO	Listening on port 33703
+1598897138999	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897143443	Marionette	INFO	Listening on port 39367
+1598897143478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598897173491	Marionette	INFO	Stopped listening on port 33703
+1598897175213	Marionette	INFO	Stopped listening on port 39367
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897178766	Marionette	INFO	Listening on port 33669
+1598897178788	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897183081	Marionette	INFO	Listening on port 38065
+1598897183145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598897189254	Marionette	INFO	Stopped listening on port 33669
+1598897190521	Marionette	INFO	Stopped listening on port 38065
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897268721	Marionette	INFO	Listening on port 43317
+1598897268774	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897273359	Marionette	INFO	Listening on port 35373
+1598897273368	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897277513	Marionette	INFO	Listening on port 44209
+1598897277590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598897282987	Marionette	INFO	Stopped listening on port 43317
+1598897283690	Marionette	INFO	Stopped listening on port 35373
+1598897285345	Marionette	INFO	Stopped listening on port 44209
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897819686	Marionette	INFO	Listening on port 45451
+1598897819706	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897823497	Marionette	INFO	Listening on port 43713
+1598897823571	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897827455	Marionette	INFO	Listening on port 36427
+1598897827494	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897832032	Marionette	INFO	Listening on port 36279
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1598897832121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598897841619	Marionette	INFO	Stopped listening on port 36279
+1598897841936	Marionette	INFO	Stopped listening on port 36427
+1598897842363	Marionette	INFO	Stopped listening on port 45451
+1598897846162	Marionette	INFO	Stopped listening on port 43713
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897872106	Marionette	INFO	Listening on port 38303
+1598897872176	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897875956	Marionette	INFO	Listening on port 41785
+1598897875966	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897879925	Marionette	INFO	Listening on port 35097
+1598897879994	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897884336	Marionette	INFO	Listening on port 35249
+1598897884436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598897980431	Marionette	INFO	Stopped listening on port 35249
+1598897980722	Marionette	INFO	Stopped listening on port 35097
+1598897980931	Marionette	INFO	Stopped listening on port 41785
+1598897981981	Marionette	INFO	Stopped listening on port 38303
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598897998364	Marionette	INFO	Listening on port 42035
+1598897998437	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598898002485	Marionette	INFO	Listening on port 36405
+1598898002499	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598898006885	Marionette	INFO	Listening on port 41911
+1598898006943	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598898011139	Marionette	INFO	Listening on port 43767
+1598898011173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598898061278	Marionette	INFO	Stopped listening on port 42035
+1598898062383	Marionette	INFO	Stopped listening on port 43767
+1598898062930	Marionette	INFO	Stopped listening on port 41911
+1598898063712	Marionette	INFO	Stopped listening on port 36405
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598898199067	Marionette	INFO	Listening on port 35289
+1598898199131	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598898203577	Marionette	INFO	Listening on port 45255
+1598898203603	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598898207642	Marionette	INFO	Listening on port 46193
+1598898207722	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598898212146	Marionette	INFO	Listening on port 45591
+1598898212172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598898221684	Marionette	INFO	Stopped listening on port 45591
+1598898224698	Marionette	INFO	Stopped listening on port 46193
+
+(firefox:499265): GLib-GObject-WARNING **: 19:24:11.046: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f6c9846f230' of type 'MaiAtkType139'
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598898276700	Marionette	INFO	Listening on port 36453
+1598898276803	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1598898279162	Marionette	INFO	Stopped listening on port 36453
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598898286049	Marionette	INFO	Listening on port 39399
+1598898286098	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1598898288462	Marionette	INFO	Stopped listening on port 39399
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598898290265	Marionette	INFO	Listening on port 46109
+1598898290297	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598898332457	Marionette	INFO	Listening on port 40339
+1598898332531	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598898338383	Marionette	INFO	Listening on port 37157
+1598898338452	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598898343225	Marionette	INFO	Listening on port 33757
+1598898343312	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598898348912	Marionette	INFO	Listening on port 41523
+1598898348985	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598898393153	Marionette	INFO	Stopped listening on port 45255
+1598898394005	Marionette	INFO	Stopped listening on port 33757
+1598898394774	Marionette	INFO	Stopped listening on port 41523
+1598898511203	Marionette	INFO	Stopped listening on port 35289
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598898586584	Marionette	INFO	Listening on port 34813
+1598898586657	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598898590716	Marionette	INFO	Listening on port 39265
+1598898590728	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598898597013	Marionette	INFO	Listening on port 33759
+1598898597062	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598898601496	Marionette	INFO	Listening on port 36269
+1598898601541	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598898614614	Marionette	INFO	Listening on port 37903
+1598898614662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598898650271	Marionette	INFO	Stopped listening on port 34813
+1598904257932	Marionette	INFO	Stopped listening on port 37157
+1598904260197	Marionette	INFO	Stopped listening on port 40339
+1598905137257	Marionette	INFO	Stopped listening on port 46109
