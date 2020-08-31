@@ -1,8 +1,10 @@
 {% extends 'base.html' %}
 {%block content%}
 		
-<h3> Name : Nathan Flaherty</h3>
 
+{%for cvitem in CVItems%}
+<h3>{{cvitem.title}}:</h3> <p>{{cvitem.text}}</p>
+{%endfor%}
 
 
 

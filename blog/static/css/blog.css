@@ -1,12 +1,9 @@
 .row{
-
-
 	padding:8px 8px 8px 8px; 
 }
 a, a:hover {
-	text-decoration:none;
-
 	color:#F5F5F5;
+	text-decoration:none;
 }
 body{
 	/*background-color:#696969;*/
