@@ -3,9 +3,12 @@
 		
 
 {%for cvitem in CVItems%}
-<h3>{{cvitem.title}}:</h3> <p>{{cvitem.text}}</p>
+<h3>{{cvitem.title}}:</h3> <p>{{cvitem.text|linebreaks}}</p>
 {%endfor%}
+<br />
 
 
+
+<a href='http://nathanflaherty.co.uk/NathanFlahertyCV.pdf'>Download CV as PDF<p></p></a>
 
 {%endblock%}

@@ -1,9 +1,12 @@
+a, a:hover {
+	text-decoration:none;
+}
+.topBar{
+	color:#F5F5F5;
+}
 .row{
 	padding:8px 8px 8px 8px; 
-}
-a, a:hover {
 	color:#F5F5F5;
-	text-decoration:none;
 }
 body{
 	/*background-color:#696969;*/
